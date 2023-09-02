@@ -1,4 +1,4 @@
-package org.blendedcoffee.cli;
+package org.coffeebean.barista.cli;
 
 import java.util.Random;
 

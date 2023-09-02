@@ -1,4 +1,4 @@
-package org.blendedcoffee.vo;
+package org.coffeebean.barista.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
